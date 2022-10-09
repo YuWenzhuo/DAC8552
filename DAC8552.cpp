@@ -82,7 +82,7 @@ void DAC8552::begin()
   _value[0] = 0;
   _value[1] = 0;
   _register[0] = 0x00;
-  _register[1] = 0x40;
+  _register[1] = 0x04;
 }
 
 
